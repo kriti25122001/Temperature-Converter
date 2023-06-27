@@ -1,4 +1,4 @@
-![Project Banner]![preview](https://github.com/kriti25122001/Temperature-Converter/assets/69442811/cb379011-6717-4633-8cc1-8f935b41e8e1)
+![preview](https://github.com/kriti25122001/Temperature-Converter/assets/69442811/cb379011-6717-4633-8cc1-8f935b41e8e1)
 
 
 # Temperature Unit Converter
